@@ -1,0 +1,447 @@
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\ApplicationInsights.config
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\roslyn\csc.exe
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.CodeAnalysis.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.CSharp.Core.targets
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\roslyn\System.Collections.Immutable.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\roslyn\System.Reflection.Metadata.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\roslyn\vbc.exe
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\roslyn\VBCSCompiler.exe
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\roslyn\VBCSCompiler.exe.config
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\ProgramaIS.dll.config
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\ProgramaIS.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\ProgramaIS.pdb
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Antlr3.Runtime.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\EntityFramework.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\EntityFramework.SqlServer.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.AI.Agent.Intercept.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.AI.DependencyCollector.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.AI.PerfCounterCollector.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.AI.Web.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.AI.WindowsServer.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.ApplicationInsights.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.Core.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.Owin.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Host.SystemWeb.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Cookies.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Facebook.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Google.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.OAuth.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Twitter.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.Web.Infrastructure.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Newtonsoft.Json.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Owin.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\System.Net.Http.Formatting.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\System.Web.Helpers.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\System.Web.Http.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\System.Web.Http.WebHost.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\System.Web.Mvc.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\System.Web.Optimization.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\System.Web.Razor.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.Deployment.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.Razor.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\WebGrease.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.AI.DependencyCollector.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.AI.Web.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.AI.WindowsServer.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.ApplicationInsights.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\System.Web.Helpers.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\System.Web.Mvc.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\System.Web.Optimization.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\System.Web.Razor.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.Deployment.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.Razor.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Antlr3.Runtime.pdb
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Newtonsoft.Json.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\System.Net.Http.Formatting.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\System.Web.Http.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\System.Web.Http.WebHost.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\EntityFramework.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\EntityFramework.SqlServer.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.Core.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.Owin.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Host.SystemWeb.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Facebook.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Cookies.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.OAuth.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Google.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Twitter.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\obj\Debug\ProgramaIS.csprojResolveAssemblyReference.cache
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\obj\Debug\ProgramaIS.dll
+f:\documents\visual studio 2015\Projects\ProgramaIS\ProgramaIS\obj\Debug\ProgramaIS.pdb
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\ApplicationInsights.config
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\csc.exe
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\System.Collections.Immutable.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\System.Reflection.Metadata.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\vbc.exe
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\VBCSCompiler.exe
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\VBCSCompiler.exe.config
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\ProgramaIS.dll.config
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\ProgramaIS.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\ProgramaIS.pdb
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Antlr3.Runtime.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\EntityFramework.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\EntityFramework.SqlServer.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AI.DependencyCollector.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AI.Web.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AI.WindowsServer.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.ApplicationInsights.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Google.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Web.Infrastructure.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Newtonsoft.Json.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Owin.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Net.Http.Formatting.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Helpers.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Http.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Http.WebHost.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Mvc.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Optimization.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Razor.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.Deployment.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.Razor.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\WebGrease.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AI.DependencyCollector.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AI.Web.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AI.WindowsServer.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.ApplicationInsights.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Helpers.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Mvc.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Optimization.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Razor.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.Deployment.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.Razor.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Antlr3.Runtime.pdb
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Newtonsoft.Json.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Net.Http.Formatting.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Http.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Http.WebHost.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\EntityFramework.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\EntityFramework.SqlServer.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Google.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\obj\Debug\ProgramaIS.csprojResolveAssemblyReference.cache
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\obj\Debug\ProgramaIS.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB\ProgramaIS\ProgramaIS\obj\Debug\ProgramaIS.pdb
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\ApplicationInsights.config
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\csc.exe
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\System.Collections.Immutable.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\System.Reflection.Metadata.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\vbc.exe
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\VBCSCompiler.exe
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\roslyn\VBCSCompiler.exe.config
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\ProgramaIS.dll.config
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\ProgramaIS.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\ProgramaIS.pdb
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Antlr3.Runtime.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\EntityFramework.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\EntityFramework.SqlServer.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AI.DependencyCollector.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AI.Web.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AI.WindowsServer.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.ApplicationInsights.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Google.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Web.Infrastructure.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\MySql.Data.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Newtonsoft.Json.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Owin.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Net.Http.Formatting.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Helpers.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Http.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Http.WebHost.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Mvc.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Optimization.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Razor.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.Deployment.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.Razor.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\WebGrease.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AI.DependencyCollector.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AI.Web.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AI.WindowsServer.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.ApplicationInsights.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\MySql.Data.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Helpers.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Mvc.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Optimization.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Razor.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.Deployment.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.Razor.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Antlr3.Runtime.pdb
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Newtonsoft.Json.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Net.Http.Formatting.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Http.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\System.Web.Http.WebHost.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\EntityFramework.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\EntityFramework.SqlServer.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Google.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\obj\Debug\ProgramaIS.csprojResolveAssemblyReference.cache
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\obj\Debug\ProgramaIS.dll
+F:\Desktop\PÁGINA WEB\ProgramaIS\ProgramaIS\obj\Debug\ProgramaIS.pdb
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\ApplicationInsights.config
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\csc.exe
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\System.Collections.Immutable.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\System.Reflection.Metadata.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\vbc.exe
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\VBCSCompiler.exe
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\VBCSCompiler.exe.config
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\ProgramaIS.dll.config
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\ProgramaIS.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\ProgramaIS.pdb
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Antlr3.Runtime.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\EntityFramework.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\EntityFramework.SqlServer.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AI.DependencyCollector.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AI.Web.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AI.WindowsServer.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.ApplicationInsights.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Google.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Web.Infrastructure.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\MySql.Data.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Newtonsoft.Json.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Owin.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Net.Http.Formatting.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Helpers.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Http.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Http.WebHost.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Mvc.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Optimization.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Razor.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.Deployment.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.Razor.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\WebGrease.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AI.DependencyCollector.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AI.Web.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AI.WindowsServer.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.ApplicationInsights.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\MySql.Data.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Helpers.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Mvc.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Optimization.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Razor.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.Deployment.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.Razor.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Antlr3.Runtime.pdb
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Newtonsoft.Json.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Net.Http.Formatting.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Http.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Http.WebHost.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\EntityFramework.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\EntityFramework.SqlServer.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Google.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\obj\Debug\ProgramaIS.csprojResolveAssemblyReference.cache
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\obj\Debug\ProgramaIS.dll
+D:\DOCUMENTOS\OCTAVO SEMESTRE\INTELIGENCIA COMPUTACIONAL\PÁGINA WEB 2\ProgramaIS\ProgramaIS\obj\Debug\ProgramaIS.pdb
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\ApplicationInsights.config
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\csc.exe
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\System.Collections.Immutable.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\System.Reflection.Metadata.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\vbc.exe
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\VBCSCompiler.exe
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\roslyn\VBCSCompiler.exe.config
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\ProgramaIS.dll.config
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\ProgramaIS.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\ProgramaIS.pdb
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Antlr3.Runtime.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\EntityFramework.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\EntityFramework.SqlServer.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AI.Agent.Intercept.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AI.DependencyCollector.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AI.Web.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AI.WindowsServer.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.ApplicationInsights.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.Core.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Cookies.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Facebook.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Google.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.OAuth.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Twitter.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Web.Infrastructure.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Newtonsoft.Json.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Owin.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Net.Http.Formatting.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Helpers.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Http.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Http.WebHost.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Mvc.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Optimization.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Razor.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.Deployment.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.Razor.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\WebGrease.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AI.DependencyCollector.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AI.Web.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AI.WindowsServer.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.ApplicationInsights.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\MySql.Data.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Helpers.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Mvc.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Optimization.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Razor.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.Deployment.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.WebPages.Razor.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Antlr3.Runtime.pdb
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Newtonsoft.Json.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Net.Http.Formatting.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Http.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\System.Web.Http.WebHost.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\EntityFramework.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\EntityFramework.SqlServer.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.Core.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Facebook.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Cookies.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.OAuth.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Google.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.Twitter.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\obj\Debug\ProgramaIS.csprojAssemblyReference.cache
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\obj\Debug\ProgramaIS.csproj.CoreCompileInputs.cache
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\obj\Debug\ProgramaIS.csproj.CopyComplete
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\obj\Debug\ProgramaIS.dll
+H:\ARCHIVOS DISCO\SEMESTRES UNIVERSIDAD DE LA AMAZONIA\PÁGINA WEB 2\ProgramaIS\ProgramaIS\obj\Debug\ProgramaIS.pdb

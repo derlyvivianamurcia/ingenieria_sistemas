@@ -1,0 +1,118 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.master.cs" Inherits="ProgramaIS.Principal" %>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Programa Ing. Sistemas</title>
+
+  <!-- Bootstrap -->
+  <link href="../Estilos/Company/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="../Estilos/Company/css/font-awesome.min.css">
+  <link rel="stylesheet" href="../Estilos/Company/css/animate.css">
+  <link href="../Estilos/Company/css/prettyPhoto.css" rel="stylesheet">
+  <link href="../Estilos/Company/css/style.css" rel="stylesheet" />
+  <!-- =======================================================
+    Theme Name: Company
+    Theme URL: https://bootstrapmade.com/company-free-html-bootstrap-template/
+    Author: BootstrapMade
+    Author URL: https://bootstrapmade.com
+  ======================================================= -->
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+  <header>
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="navigation">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse.collapse">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+            <div class="navbar-brand">
+              <a href="index.html"><h1><span> </span>Ing. Sistemas</h1></a>
+            </div>
+          </div>
+
+          <div class="navbar-collapse collapse">
+            <div class="menu">
+              <ul class="nav nav-tabs" role="tablist">
+                <li role="presentation"><a href="Inicial.aspx" class="active">Inicio</a></li>
+                <li role="presentation"><a href="QuienesSomos.aspx">¿QUIÉNES SOMOS?</a></li>
+                <li role="presentation"><a href="Aspectos.aspx">ASPECTOS CURRICULARES</a></li>
+                <li role="presentation"><a href="Investigacion.aspx">INVESTIGACIÓN</a></li>
+                <li role="presentation"><a href="Eventos.aspx">EVENTOS</a></li>
+                <li role="presentation"><a href="Contacto.aspx">CONTACTO</a></li>
+                  <li role="presentation"><a href="IniciarSesion.aspx">INICIAR SESIÓN</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+
+  <footer>
+    <div class="footer">
+      <div class="container">
+        <div class="social-icon">
+          <div class="col-md-4">
+            <ul class="social-network">
+              <li><a href="https://www.facebook.com/profile.php?id=100012160176220" class="fb tool-tip" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+             
+            </ul>
+          </div>
+        </div>
+
+        <div class="col-md-4 col-md-offset-4">
+          <div class="copyright">
+            &copy; Universidad de la Amazonia. Todos los derechos reservados.
+            <div class="credits">
+              <!--
+                All the links in the footer should remain intact.
+                You can delete the links only if you purchased the pro version.
+                Licensing information: https://bootstrapmade.com/license/
+                Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Company
+              -->
+              by <a href="https://bootstrapmade.com/">GIECOM</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="pull-right">
+        <a href="#home" class="scrollup"><i class="fa fa-angle-up fa-3x"></i></a>
+      </div>
+    </div>
+  </footer>
+
+
+
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="js/jquery-2.1.1.min.js"></script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="../Estilos/Company/js/bootstrap.min.js"></script>
+  <script src="../Estilos/Company/js/jquery.prettyPhoto.js"></script>
+  <script src="../Estilos/Company/js/jquery.isotope.min.js"></script>
+  <script src="../Estilos/Company/js/wow.min.js"></script>
+  <script src="../Estilos/Company/js/functions.js"></script>
+
+</body>
+
+</html>
